@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SnowMix♪",
+  "base_artist": "まらしぃ",
+  "createdAt": "2025-12-27T17:07:28.297726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SnowMix",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/01_SnowMix_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SnowMix - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/02_SnowMix_-_Russian_ver._Sati_Akura.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SnowMix♪",
+      "artist": "まらしぃ Feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_SnowMix♪_まらしぃ_Feat.初音ミク.txt"
+    }
+  ]
+}
